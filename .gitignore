@@ -1,0 +1,4 @@
+code/node_modules/
+code/build
+code/db
+.DS_Store
